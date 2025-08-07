@@ -1,0 +1,13 @@
+# carpetas
+/build/
+/dist/
+/nbproject/private/
+/test/
+
+# Archivo
+*.class
+*.log
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
