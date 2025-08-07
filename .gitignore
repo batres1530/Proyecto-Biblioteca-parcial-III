@@ -1,7 +1,7 @@
 # carpetas
 /build/
 /dist/
-/nbproject/private/
+/nbproject
 /test/
 
 # Archivo
@@ -10,4 +10,5 @@
 *.tmp
 *.bak
 *.DS_Store
+*.build.xml
 Thumbs.db
