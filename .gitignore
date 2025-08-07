@@ -12,3 +12,6 @@
 *.DS_Store
 *.build.xml
 Thumbs.db
+*.DS_Store
+Thumbs.db
+build.xml
